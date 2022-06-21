@@ -38,34 +38,34 @@ Requester request for a cheer driver, once the cheer driver gets the pop-up mess
 6. All the Services should be Dockerized
 
 ### Technology stack
-Node js with Express and Mongoose
-Mongo DB
-Socket IO for Websocket 
-JWT authentication
-CORS 
-Kafka 
-ELK
-Flutter
+1. Node js with Express and Mongoose
+2. Mongo DB
+3. Socket IO for Websocket 
+4. JWT authentication
+5. CORS 
+6. Kafka 
+7. ELK
+8. Flutter
 
 ### Tools In Consideration
-Kubernetes / Openshift
-AWS/Azure 
-VS Code with necessary plugins
-Mongo DB atles / Cloud-managed Mongo
-Identity Provider service
-Git
-Gitops / CICD Tools
-Docker
-Android Studio & Xcode
-Postman
+1. Kubernetes / Openshift
+2. AWS/Azure 
+3. VS Code with necessary plugins
+4. Mongo DB atles / Cloud-managed Mongo
+5. Identity Provider service
+6. Git
+7. Gitops / CICD Tools
+8. Docker
+9. Android Studio & Xcode
+10. Postman
 
 ### NFR Considerations
-Security 
-Reliability
-Performance
-Scalability
-Maintainability
-Recoverability
+1. Security 
+2. Reliability
+3. Performance
+4. Scalability
+5. Maintainability
+6. Recoverability
 
 
 
