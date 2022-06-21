@@ -12,6 +12,12 @@ Node js , Express,
 Sequelize,
 My Sql
 
+### Tools Used
+1. VS code
+2. My Sql CE
+3. My Sql Workbench
+4. Postman
+
 ### How to Run Test
 Run test using postman
 https://github.com/bipinkm/dilligent/blob/main/Dilligent.postman_collection.json
