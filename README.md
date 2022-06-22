@@ -4,6 +4,18 @@
 Node js app for product listing 
 
 ### How to Run
+#### DB Setup
+Install My sql server
+change below details in https://github.com/bipinkm/dilligent/blob/main/.env
+
+1. DB_HOST=localhost
+2. DB_PORT=3306
+3. DB_USER=root
+4. DB_PASS=Qq123456!
+5. DB_DATABASE=dilligent
+6. DB_LIMIT_PER_PAGE=10
+7. DB_DIALECT=mysql
+
 ```
 npm run dserver
 ```
